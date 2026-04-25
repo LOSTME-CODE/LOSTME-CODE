@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/38437c55-55bb-403f-890a-7cd7edfae303" />
+<img width="200" height="200" alt="Image" align="right" src="https://github.com/user-attachments/assets/38437c55-55bb-403f-890a-7cd7edfae303" />
 
 
 
