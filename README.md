@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **DSA, Machine Learning, Deep Learning, Computer Vision, DBMS, Generative AI**
 
-- 📫 How to reach me **saa29chi.sam@gmail.com**
+- 📫 How to reach me **saa29chi.sam@gmail.com** **Saachi_Sh@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 
