@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<img align="right"  width="100" alt="Image" src="https://github.com/user-attachments/assets/e2aaa464-3cf9-4c07-84ce-679921f46ce3"/>
+<img align="right"  width="200" alt="Image" src="https://github.com/user-attachments/assets/e2aaa464-3cf9-4c07-84ce-679921f46ce3"/>
 
 
 <p align="left">
