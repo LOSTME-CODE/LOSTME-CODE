@@ -10,9 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif "> 
 
-<img width="225" height="225" alt="Image" src="https://github.com/user-attachments/assets/e2aaa464-3cf9-4c07-84ce-679921f46ce3" />
+<img align="right"  width="400" alt="Image" src="https://github.com/user-attachments/assets/e2aaa464-3cf9-4c07-84ce-679921f46ce3"/>
 
 
 <p align="left">
