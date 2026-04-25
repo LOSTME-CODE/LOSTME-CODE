@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/38437c55-55bb-403f-890a-7cd7edfae303" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/38437c55-55bb-403f-890a-7cd7edfae303" />
 
-<img align="right"  width="200" alt="Image" src="https://github.com/user-attachments/assets/e2aaa464-3cf9-4c07-84ce-679921f46ce3"/>
+
 
 
 <p align="left">
