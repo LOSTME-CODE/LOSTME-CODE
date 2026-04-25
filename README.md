@@ -100,21 +100,6 @@
 
 </tr>
 
-<tr>
-
-<td align="center">
-<a href="https://langchain-ai.github.io/langgraph/" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/163755230?s=200&v=4" width="40" height="40"/>
-</a>
-</td>
-
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-
-</tr>
 
 </table>
 
