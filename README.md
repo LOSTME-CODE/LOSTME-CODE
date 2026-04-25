@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/LOSTME-CODE/LOSTME_CODE/main/GITHBanner.png)
+![logo](https://github.com/LOSTME-CODE/LOSTME_CODE/blob/main/GITHBanner.png)
 <h1 align="center">Hi 👋, I'm saachi sharma</h1>
 <h3 align="center">I'm a B.Tech Robotics & Automation student at Symbiosis Institute of Technology, Pune, with a strong passion for creating intuitive and effective front-end and back-end solutions. I enjoy building innovative projects that address real-world problems and bring ideas to life. With a keen interest in AI/ML and a flair for editing and designing, I'm constantly learning and evolving my skills. I’m always learning and improving my skills to turn ideas into meaningful applications.</h3>
 
