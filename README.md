@@ -1,5 +1,5 @@
 ![logo](https://github.com/LOSTME-CODE/LOSTME_CODE/blob/main/GITHBanner.png)
-<h1 align="center">Hello (ᵔᴗᵔ) , I'm saachi sharma</h1>
+<h1 align="center">Hello (ᵔᴗᵔ) , I'm saachi sharma...</h1>
 <h3 align="center"><h3 align="center">I'm a Robotics & Automation graduate building at the intersection of Robotics, Computer Vision, AI/ML, and Data Analytics. I enjoy building innovative projects that address real-world problems and bring ideas to life  from perception pipelines and robotic manipulation to GenAI systems and data dashboards. I'm constantly learning and evolving my skills to turn ideas into meaningful applications.</h3>.</h3>
 
 <p align="center">
